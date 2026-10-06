@@ -1,4 +1,4 @@
-# AskBase
+# AskBase.
 
 A multi-tenant document Q&A API. Users register, upload documents, and ask
 questions over their own documents; answers stream back with citations to the
