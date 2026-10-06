@@ -10,3 +10,4 @@ __pycache__/
 # Personal planning docs stay local
 *.docx
 LEARNING.md
+notes/
