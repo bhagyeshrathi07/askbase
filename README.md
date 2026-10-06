@@ -13,7 +13,7 @@ Compose, and a measured load test.
 
 **Phase 0 (skeleton)** — FastAPI app with `/health`, Dockerfile, Compose
 stack (app, Postgres + pgvector, Redis), settings from environment variables,
-tests and CI. See the build guide in this folder for the remaining phases.
+tests and CI.
 
 ## Run it
 
